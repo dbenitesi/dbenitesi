@@ -19,3 +19,8 @@ print(a_set & b_set)
 c_set = a_set.difference(b_set)
 print(c_set)
 print(a_set - b_set)
+
+#   Symmetric Difference
+c_set = a_set.symmetric_difference(b_set)
+print(c_set)
+print(a_set ^ b_set)

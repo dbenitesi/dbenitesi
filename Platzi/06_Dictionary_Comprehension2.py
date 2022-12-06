@@ -7,3 +7,7 @@ print(population_v2)
 
 result = { country: population for (country, population) in population_v2.items() if population > 30}
 print(result)
+
+text_v1 = 'Hola, Soy Daniel'
+unique = { character: character.upper() for character in text_v1 if character in 'aeiou'}
+print(unique)

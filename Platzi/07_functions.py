@@ -6,7 +6,7 @@ def my_print(text):
 my_print('Esta es mi primera funcion')
 
 def suma(a,b):
-    print(a+b)
+    my_print(a+b)
 
 suma(1,5)
 suma(10,4)

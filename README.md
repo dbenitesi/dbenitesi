@@ -4,6 +4,20 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbenitesi.db@gmail.com)](mailto:dbenitesi.db@gmail.com)
 
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar = Array(progressBarCapacity)
+        .fill('▁')
+        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .join('')
+    const progressBar =
+      '█'.repeat(passedProgressBarIndex) +
+      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+    return `{ ${progressBar} }`
+}
+
 - 👋 Hi, I’m @dbenitesi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

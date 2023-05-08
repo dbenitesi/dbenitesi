@@ -6,8 +6,8 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danielbenites.com/)](https://danielbenites.com/)
 
 
-| [CV](https://cv.danielbenites.com)| ![Youtube Channel](https://www.youtube.com/channel/UC1QGl9MzcbU1L3hldTGdmsQ) | Day003 | Day004 | Day005 | Day006 | Day007 | Day008 | Day009 | Day010 |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danielbenites) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbenitesi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dibi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dbenites) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC1QGl9MzcbU1L3hldTGdmsQ) 
 
 
 

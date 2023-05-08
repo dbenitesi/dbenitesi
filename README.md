@@ -6,7 +6,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danielbenites.com/)](https://danielbenites.com/)
 
 
-| [CV](https://cv.danielbenites.com)| Day002 | Day003 | Day004 | Day005 | Day006 | Day007 | Day008 | Day009 | Day010 |
+| [CV](https://cv.danielbenites.com)| ![Youtube Channel](https://www.youtube.com/channel/UC1QGl9MzcbU1L3hldTGdmsQ) | Day003 | Day004 | Day005 | Day006 | Day007 | Day008 | Day009 | Day010 |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
 
